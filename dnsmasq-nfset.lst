@@ -1,3 +1,4 @@
+nftset=/speedtest.net/4#inet#fw4#vpn_domains
 nftset=/v2ray.com/4#inet#fw4#vpn_domains
 nftset=/googleapis.com/4#inet#fw4#vpn_domains
 nftset=/api.ai/4#inet#fw4#vpn_domains
