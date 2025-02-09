@@ -1,3 +1,4 @@
+nftset=/jetbra.in/4#inet#fw4#vpn_domains
 nftset=/habr.com/4#inet#fw4#vpn_domains
 nftset=/nekoray.net/4#inet#fw4#vpn_domains
 nftset=/speedtest.net/4#inet#fw4#vpn_domains
